@@ -1,1 +1,5 @@
 # Intelligent-Content-Classification-System
+- Developed an automated classification system for social media posts, aiming to optimize the processing and categorization of user-generated content using state-of-the-art AI technologies.
+- Built a production-grade, AWS-based system that automates the entire workflow—from data ingestion and preprocessing to model training and deployment—ensuring high-accuracy classification of social media posts
+- Set up the development environment on AWS SageMaker and integrated HuggingFace with PyTorch to leverage a customized DistilBERT model. The project involved uploading data to S3, performing data preprocessing with tokenization and encoding, and continuously monitoring and fine-tuning the model’s training process using AWS CloudWatch to ensure stability and scalability.
+- Delivered, significantly enhancing classification accuracy and processing efficiency. Demonstrated the advantages in applying AWS, HuggingFace, and PyTorch for end-to-end AI system development
